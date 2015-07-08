@@ -3,16 +3,16 @@ package com.haku.steelcraft.items;
 import com.haku.steelcraft.CreativeTabs.SCTabs;
 import com.haku.steelcraft.lib.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
-import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemSword;
 
-public class ItemSteel extends Item {
+public class SwordSteel extends ItemSword{
 
-    public String name = "itemSteel";
+    public String name = "swordSteel";
 
-    public ItemSteel(){
+    public SwordSteel(ToolMaterial material) {
+        super(material);
         setUnlocalizedName(Reference.MODID + "_" + name);
-        setCreativeTab(SCTabs.SC_TAB);
+        setCreativeTab(SCTabs.weaponTab);
         GameRegistry.registerItem(this, name);
         setTextureName(Reference.MODID + ":" + name);
     }

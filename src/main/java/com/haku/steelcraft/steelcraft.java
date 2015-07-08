@@ -1,5 +1,6 @@
 package com.haku.steelcraft;
 
+import com.haku.steelcraft.blocks.ModBlocks;
 import com.haku.steelcraft.items.ModItems;
 import com.haku.steelcraft.lib.Reference;
 import cpw.mods.fml.common.Mod;
@@ -16,6 +17,7 @@ public class steelcraft {
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         ModItems.init();
+        ModBlocks.init();
 
     }
 

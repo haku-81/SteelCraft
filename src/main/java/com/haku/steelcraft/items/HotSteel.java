@@ -3,14 +3,13 @@ package com.haku.steelcraft.items;
 import com.haku.steelcraft.CreativeTabs.SCTabs;
 import com.haku.steelcraft.lib.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-public class ItemSteel extends Item {
+public class HotSteel extends Item {
 
-    public String name = "itemSteel";
+    public String name = "hotSteel";
 
-    public ItemSteel(){
+    public HotSteel(){
         setUnlocalizedName(Reference.MODID + "_" + name);
         setCreativeTab(SCTabs.SC_TAB);
         GameRegistry.registerItem(this, name);
