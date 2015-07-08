@@ -1,0 +1,34 @@
+[18:25:45] [main/INFO]: Setting user: Player275
+[18:25:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:26:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SteelCraft
+[18:26:21] [Sound Library Loader/INFO]: Sound engine started
+[18:26:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:26:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:26:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SteelCraft
+[18:26:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:26:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:26:31] [Sound Library Loader/INFO]: Sound engine started
+[18:28:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:28:44] [Server thread/INFO]: Generating keypair
+[18:28:45] [Server thread/INFO]: Converting map!
+[18:28:45] [Server thread/INFO]: Scanning folders...
+[18:28:45] [Server thread/INFO]: Total conversion count is 0
+[18:28:46] [Server thread/WARN]: Unable to find spawn biome
+[18:28:50] [Server thread/INFO]: Preparing start region for level 0
+[18:28:51] [Server thread/INFO]: Changing view distance to 2, from 10
+[18:28:55] [Server thread/INFO]: Player275[local:E:f315432c] logged in with entity id 0 at (-177.5, 56.0, -574.5)
+[18:28:55] [Server thread/INFO]: Player275 joined the game
+[18:29:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3972ms behind, skipping 79 tick(s)
+[18:29:03] [Server thread/INFO]: Player275 has just earned the achievement [Taking Inventory]
+[18:29:03] [Client thread/INFO]: [CHAT] Player275 has just earned the achievement [Taking Inventory]
+[18:29:28] [Server thread/INFO]: Saving and pausing game...
+[18:29:28] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[18:29:29] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[18:29:29] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[18:29:29] [Server thread/INFO]: Stopping server
+[18:29:29] [Server thread/INFO]: Saving players
+[18:29:29] [Server thread/INFO]: Saving worlds
+[18:29:29] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[18:29:29] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[18:29:29] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[18:29:33] [Client thread/INFO]: Stopping!

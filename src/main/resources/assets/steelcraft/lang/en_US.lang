@@ -1,0 +1,10 @@
+item.steelcraft_itemSteel.name=Steel Ingot
+item.steelcraft_hotSteel.name=Heated Iron
+item.steelcraft_linkSteel.name=Chain Link
+item.steelcraft_axeSteel.name=Steel Axe
+item.steelcraft_hoeSteel.name=Steel Hoe
+item.steelcraft_pickSteel.name=Steel Pickaxe
+item.steelcraft_shovelSteel.name=Steel Shovel
+item.steelcraft_swordSteel.name=Steel Sword
+
+tile.steelcraft_blockSteel.name=Block of Steel
