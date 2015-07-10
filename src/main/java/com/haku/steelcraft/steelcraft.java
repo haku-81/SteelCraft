@@ -1,5 +1,6 @@
 package com.haku.steelcraft;
 
+import com.haku.steelcraft.Processing.Crafting;
 import com.haku.steelcraft.blocks.ModBlocks;
 import com.haku.steelcraft.items.ModItems;
 import com.haku.steelcraft.lib.Reference;
@@ -23,7 +24,7 @@ public class steelcraft {
 
     @EventHandler
     public void init(FMLInitializationEvent event) {
-
+        Crafting.init();
     }
 
     @EventHandler
